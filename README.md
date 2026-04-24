@@ -50,3 +50,18 @@ Aidoku 中文图源
 - ~~[野蛮漫画](https://yemancomic.com)~~
 - [再漫画](https://www.zaimanhua.com)
 - [zero搬运网](https://zerobyw.github.io)
+
+
+
+
+
+
+
+
+自己的
+- **GitHub Pages** [添加图源](https://aidoku.app/add-source-list/?url=https://diciky.github.io/aidoku-zh-sources-xg/)
+  - 直接访问索引文件: https://diciky.github.io/aidoku-zh-sources-xg/index.json
+- **备用方案 (Raw GitHub)**: [添加图源](https://aidoku.app/add-source-list/?url=https://raw.githubusercontent.com/diciky/aidoku-zh-sources-xg/refs/heads/gh-pages/index.json)
+  - 直接访问索引文件: https://aidoku.app/add-source-list/?url=https://raw.githubusercontent.com/diciky/aidoku-zh-sources-xg/refs/heads/gh-pages/index.json
+- **备用方案 (JSDelivr CDN)**: [添加图源](https://aidoku.app/add-source-list/?url=https://cdn.jsdelivr.net/gh/diciky/aidoku-zh-sources-xg@gh-pages/)
+  - 直接访问索引文件: https://cdn.jsdelivr.net/gh/machsix/aidoku-zh-sources@gh-pages](https://cdn.jsdelivr.net/gh/diciky/aidoku-zh-sources-xg@gh-pages)/index.json
